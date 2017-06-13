@@ -40,5 +40,5 @@ def example_0():
         lstm_net.x_list_clear()
 
 if __name__ == "__main__":
-    example_0()
+      ()
 
